@@ -1,0 +1,3152 @@
+[
+  {
+    "id": 1,
+    "code": 40101,
+    "office": "Ahero"
+  },
+  {
+    "id": 2,
+    "code": 30101,
+    "office": "Ainabkoi"
+  },
+  {
+    "id": 3,
+    "code": 40139,
+    "office": "Akala"
+  },
+  {
+    "id": 4,
+    "code": 50244,
+    "office": "Amagoro"
+  },
+  {
+    "id": 5,
+    "code": 20424,
+    "office": "Amalo (Formerly Oloomirani)"
+  },
+  {
+    "id": 6,
+    "code": 50403,
+    "office": "Amukura"
+  },
+  {
+    "id": 7,
+    "code": 40309,
+    "office": "Asumbi"
+  },
+  {
+    "id": 8,
+    "code": "00204",
+    "office": "Athi River"
+  },
+  {
+    "id": 9,
+    "code": 40122,
+    "office": "Awasi"
+  },
+  {
+    "id": 10,
+    "code": 20113,
+    "office": "Bahati"
+  },
+  {
+    "id": 11,
+    "code": 80101,
+    "office": "Bamburi"
+  },
+  {
+    "id": 12,
+    "code": 50316,
+    "office": "Banja"
+  },
+  {
+    "id": 13,
+    "code": 20601,
+    "office": "Baragoi"
+  },
+  {
+    "id": 14,
+    "code": 30306,
+    "office": "Baraton"
+  },
+  {
+    "id": 15,
+    "code": 10302,
+    "office": "Baricho "
+  },
+  {
+    "id": 16,
+    "code": "01101",
+    "office": "Bissel"
+  },
+  {
+    "id": 17,
+    "code": 50206,
+    "office": "Bokoli"
+  },
+  {
+    "id": 18,
+    "code": 20400,
+    "office": "Bomet"
+  },
+  {
+    "id": 19,
+    "code": 20101,
+    "office": "Bondeni"
+  },
+  {
+    "id": 20,
+    "code": 40601,
+    "office": "Bondo"
+  },
+  {
+    "id": 21,
+    "code": 50137,
+    "office": "Booker"
+  },
+  {
+    "id": 22,
+    "code": 40620,
+    "office": "Boro"
+  },
+  {
+    "id": 23,
+    "code": 50245,
+    "office": "Brigadier"
+  },
+  {
+    "id": 24,
+    "code": 50105,
+    "office": "Bukura"
+  },
+  {
+    "id": 25,
+    "code": 50109,
+    "office": "Bulimbo"
+  },
+  {
+    "id": 26,
+    "code": 50404,
+    "office": "Bumala"
+  },
+  {
+    "id": 27,
+    "code": 50200,
+    "office": "Bungoma"
+  },
+  {
+    "id": 28,
+    "code": 70104,
+    "office": "Bura Tana"
+  },
+  {
+    "id": 29,
+    "code": 30102,
+    "office": "Burnt Forest"
+  },
+  {
+    "id": 30,
+    "code": "00515",
+    "office": "Buruburu"
+  },
+  {
+    "id": 31,
+    "code": 50400,
+    "office": "Busia"
+  },
+  {
+    "id": 32,
+    "code": 50101,
+    "office": "Butere"
+  },
+  {
+    "id": 33,
+    "code": 50405,
+    "office": "Butula"
+  },
+  {
+    "id": 34,
+    "code": 50210,
+    "office": "Buyofu"
+  },
+  {
+    "id": 35,
+    "code": 50302,
+    "office": "Chamakanga"
+  },
+  {
+    "id": 36,
+    "code": 80102,
+    "office": "Changamwe"
+  },
+  {
+    "id": 37,
+    "code": 50317,
+    "office": "Chavakali"
+  },
+  {
+    "id": 38,
+    "code": 30706,
+    "office": "Chebiemit"
+  },
+  {
+    "id": 39,
+    "code": 20215,
+    "office": "Cheborge"
+  },
+  {
+    "id": 40,
+    "code": 20401,
+    "office": "Chebunyo"
+  },
+  {
+    "id": 41,
+    "code": 20222,
+    "office": "Chemamul"
+  },
+  {
+    "id": 42,
+    "code": 20407,
+    "office": "Chemaner"
+  },
+  {
+    "id": 43,
+    "code": 40116,
+    "office": "Chemelil"
+  },
+  {
+    "id": 44,
+    "code": 30605,
+    "office": "Chepareria"
+  },
+  {
+    "id": 45,
+    "code": 30133,
+    "office": "Chepkoilel"
+  },
+  {
+    "id": 46,
+    "code": 30129,
+    "office": "Chepkorio"
+  },
+  {
+    "id": 47,
+    "code": 50201,
+    "office": "Cheptais"
+  },
+  {
+    "id": 48,
+    "code": 20217,
+    "office": "Chesinendet"
+  },
+  {
+    "id": 49,
+    "code": 60410,
+    "office": "Chiakanyinga"
+  },
+  {
+    "id": 50,
+    "code": 60409,
+    "office": "Chiakariga"
+  },
+  {
+    "id": 51,
+    "code": 60401,
+    "office": "Chogoria"
+  },
+  {
+    "id": 52,
+    "code": 60400,
+    "office": "Chuka"
+  },
+  {
+    "id": 53,
+    "code": 90147,
+    "office": "Chumvi"
+  },
+  {
+    "id": 54,
+    "code": 80314,
+    "office": "Chumvini"
+  },
+  {
+    "id": 55,
+    "code": 50202,
+    "office": "Chwele"
+  },
+  {
+    "id": 56,
+    "code": "00200",
+    "office": "City Square"
+  },
+  {
+    "id": 57,
+    "code": 80103,
+    "office": "Coast Gen. Hospital"
+  },
+  {
+    "id": 58,
+    "code": 70103,
+    "office": "Dadaab"
+  },
+  {
+    "id": 59,
+    "code": 40112,
+    "office": "Dago"
+  },
+  {
+    "id": 60,
+    "code": "00516",
+    "office": "Dandora"
+  },
+  {
+    "id": 61,
+    "code": 40117,
+    "office": "Daraja Mbili"
+  },
+  {
+    "id": 62,
+    "code": 90145,
+    "office": "Daystar"
+  },
+  {
+    "id": 63,
+    "code": 80401,
+    "office": "Diani Beach"
+  },
+  {
+    "id": 64,
+    "code": 80104,
+    "office": "Docks"
+  },
+  {
+    "id": 65,
+    "code": 10401,
+    "office": "Doldol"
+  },
+  {
+    "id": 66,
+    "code": "01027",
+    "office": "Donyosabuk"
+  },
+  {
+    "id": 67,
+    "code": "00610",
+    "office": "Eastleigh"
+  },
+  {
+    "id": 68,
+    "code": 20115,
+    "office": "Egerton"
+  },
+  {
+    "id": 69,
+    "code": 90139,
+    "office": "Ekalakala"
+  },
+  {
+    "id": 70,
+    "code": 20102,
+    "office": "Elburgon"
+  },
+  {
+    "id": 71,
+    "code": 20103,
+    "office": "Eldama Ravine"
+  },
+  {
+    "id": 72,
+    "code": 30100,
+    "office": "Eldoret"
+  },
+  {
+    "id": 73,
+    "code": 70301,
+    "office": "Elwak"
+  },
+  {
+    "id": 74,
+    "code": 90121,
+    "office": "Emali"
+  },
+  {
+    "id": 75,
+    "code": "00521",
+    "office": "Embakasi"
+  },
+  {
+    "id": 76,
+    "code": 60100,
+    "office": "Embu"
+  },
+  {
+    "id": 77,
+    "code": 50314,
+    "office": "Emuhaya"
+  },
+  {
+    "id": 78,
+    "code": 10107,
+    "office": "Endarasha"
+  },
+  {
+    "id": 79,
+    "code": 30201,
+    "office": "Endebess"
+  },
+  {
+    "id": 80,
+    "code": "00500",
+    "office": "Enterprise Road"
+  },
+  {
+    "id": 81,
+    "code": 40208,
+    "office": "Etago"
+  },
+  {
+    "id": 82,
+    "code": 80501,
+    "office": "Faza"
+  },
+  {
+    "id": 83,
+    "code": 20209,
+    "office": "Fort Ternan"
+  },
+  {
+    "id": 84,
+    "code": 50406,
+    "office": "Funyula"
+  },
+  {
+    "id": 85,
+    "code": "00100",
+    "office": "G.P.O Nairobi"
+  },
+  {
+    "id": 86,
+    "code": 10210,
+    "office": "Gacharage-Ini"
+  },
+  {
+    "id": 87,
+    "code": 60209,
+    "office": "Gaitu"
+  },
+  {
+    "id": 88,
+    "code": 10109,
+    "office": "Gakere Road"
+  },
+  {
+    "id": 89,
+    "code": 10111,
+    "office": "Gakindu"
+  },
+  {
+    "id": 90,
+    "code": 10239,
+    "office": "Gakungu"
+  },
+  {
+    "id": 91,
+    "code": 50318,
+    "office": "Gambogi"
+  },
+  {
+    "id": 92,
+    "code": 80205,
+    "office": "Ganze"
+  },
+  {
+    "id": 93,
+    "code": 60301,
+    "office": "Garba Tulla"
+  },
+  {
+    "id": 94,
+    "code": 70100,
+    "office": "Garissa"
+  },
+  {
+    "id": 95,
+    "code": 80201,
+    "office": "Garsen"
+  },
+  {
+    "id": 96,
+    "code": "00240",
+    "office": "Gathugu"
+  },
+  {
+    "id": 97,
+    "code": 10114,
+    "office": "Gatitu"
+  },
+  {
+    "id": 98,
+    "code": "01028",
+    "office": "Gatukuyu"
+  },
+  {
+    "id": 99,
+    "code": "01030",
+    "office": "Gatundu"
+  },
+  {
+    "id": 100,
+    "code": 60404,
+    "office": "Gatunga"
+  },
+  {
+    "id": 101,
+    "code": "01013",
+    "office": "Gatura"
+  },
+  {
+    "id": 102,
+    "code": 80208,
+    "office": "Gede"
+  },
+  {
+    "id": 103,
+    "code": 40503,
+    "office": "Gesima"
+  },
+  {
+    "id": 104,
+    "code": 40201,
+    "office": "Gesusu"
+  },
+  {
+    "id": 105,
+    "code": 10108,
+    "office": "Giakanja"
+  },
+  {
+    "id": 106,
+    "code": "00601",
+    "office": "Gigiri"
+  },
+  {
+    "id": 107,
+    "code": 10213,
+    "office": "Gikoe"
+  },
+  {
+    "id": 108,
+    "code": 20116,
+    "office": "Gilgil"
+  },
+  {
+    "id": 109,
+    "code": 50304,
+    "office": "Gisambai"
+  },
+  {
+    "id": 110,
+    "code": 60212,
+    "office": "Gitemene"
+  },
+  {
+    "id": 111,
+    "code": 60205,
+    "office": "Githongo"
+  },
+  {
+    "id": 112,
+    "code": "00216",
+    "office": "Githunguri"
+  },
+  {
+    "id": 113,
+    "code": "01003",
+    "office": "Gituamba"
+  },
+  {
+    "id": 114,
+    "code": 10209,
+    "office": "Gitugi"
+  },
+  {
+    "id": 115,
+    "code": 80206,
+    "office": "Gongoni"
+  },
+  {
+    "id": 116,
+    "code": 70202,
+    "office": "Griftu"
+  },
+  {
+    "id": 117,
+    "code": 70201,
+    "office": "Habaswein"
+  },
+  {
+    "id": 118,
+    "code": 50312,
+    "office": "Hamisi"
+  },
+  {
+    "id": 119,
+    "code": 40640,
+    "office": "Hawinga"
+  },
+  {
+    "id": 120,
+    "code": 70101,
+    "office": "Hola"
+  },
+  {
+    "id": 121,
+    "code": 40300,
+    "office": "Homa Bay"
+  },
+  {
+    "id": 122,
+    "code": 30109,
+    "office": "Huruma"
+  },
+  {
+    "id": 123,
+    "code": 40209,
+    "office": "Igare"
+  },
+  {
+    "id": 124,
+    "code": 60402,
+    "office": "Igoji"
+  },
+  {
+    "id": 125,
+    "code": 20307,
+    "office": "Igwamiti"
+  },
+  {
+    "id": 126,
+    "code": 90120,
+    "office": "Iiani"
+  },
+  {
+    "id": 127,
+    "code": 90135,
+    "office": "Ikalaasa"
+  },
+  {
+    "id": 128,
+    "code": 40501,
+    "office": "Ikonge"
+  },
+  {
+    "id": 129,
+    "code": 90207,
+    "office": "Ikutha"
+  },
+  {
+    "id": 130,
+    "code": 60405,
+    "office": "Ikuu"
+  },
+  {
+    "id": 131,
+    "code": 60102,
+    "office": "Ishiara"
+  },
+  {
+    "id": 132,
+    "code": 40414,
+    "office": "Isibania"
+  },
+  {
+    "id": 133,
+    "code": 60300,
+    "office": "Isiolo"
+  },
+  {
+    "id": 134,
+    "code": 30700,
+    "office": "Iten"
+  },
+  {
+    "id": 135,
+    "code": "01015",
+    "office": "Ithanga"
+  },
+  {
+    "id": 136,
+    "code": "00501",
+    "office": "J.K.I. Airport"
+  },
+  {
+    "id": 137,
+    "code": "00101",
+    "office": "Jamia"
+  },
+  {
+    "id": 138,
+    "code": 20157,
+    "office": "Kabarak"
+  },
+  {
+    "id": 139,
+    "code": 30400,
+    "office": "Kabarnet"
+  },
+  {
+    "id": 140,
+    "code": 30401,
+    "office": "Kabartonjo"
+  },
+  {
+    "id": 141,
+    "code": 90205,
+    "office": "Kabati"
+  },
+  {
+    "id": 142,
+    "code": 20114,
+    "office": "Kabazi"
+  },
+  {
+    "id": 143,
+    "code": "02201",
+    "office": "Kabianga"
+  },
+  {
+    "id": 144,
+    "code": 30303,
+    "office": "Kabiyet"
+  },
+  {
+    "id": 145,
+    "code": 30601,
+    "office": "Kacheliba"
+  },
+  {
+    "id": 146,
+    "code": 40223,
+    "office": "Kadongo"
+  },
+  {
+    "id": 147,
+    "code": 10306,
+    "office": "Kagio"
+  },
+  {
+    "id": 148,
+    "code": 10307,
+    "office": "Kagumo"
+  },
+  {
+    "id": 149,
+    "code": "01033",
+    "office": "Kagundu-Ini"
+  },
+  {
+    "id": 150,
+    "code": "00223",
+    "office": "Kagwe"
+  },
+  {
+    "id": 151,
+    "code": 20304,
+    "office": "Kaheho"
+  },
+  {
+    "id": 152,
+    "code": 10206,
+    "office": "Kahuhia"
+  },
+  {
+    "id": 153,
+    "code": 10201,
+    "office": "Kahuro"
+  },
+  {
+    "id": 154,
+    "code": "01214",
+    "office": "Kahuti "
+  },
+  {
+    "id": 155,
+    "code": 50305,
+    "office": "Kaimosi"
+  },
+  {
+    "id": 156,
+    "code": "01100",
+    "office": "Kajiado"
+  },
+  {
+    "id": 157,
+    "code": 50100,
+    "office": "Kakamega"
+  },
+  {
+    "id": 158,
+    "code": 30501,
+    "office": "Kakuma"
+  },
+  {
+    "id": 159,
+    "code": 50115,
+    "office": "Kakunga"
+  },
+  {
+    "id": 160,
+    "code": 90122,
+    "office": "Kalamba"
+  },
+  {
+    "id": 161,
+    "code": "01001",
+    "office": "Kalimoni"
+  },
+  {
+    "id": 162,
+    "code": 30502,
+    "office": "Kalokol"
+  },
+  {
+    "id": 163,
+    "code": 80105,
+    "office": "Kaloleni"
+  },
+  {
+    "id": 164,
+    "code": 20134,
+    "office": "Kamara"
+  },
+  {
+    "id": 165,
+    "code": 50116,
+    "office": "Kambiri"
+  },
+  {
+    "id": 166,
+    "code": 10226,
+    "office": "Kambiti"
+  },
+  {
+    "id": 167,
+    "code": "00607",
+    "office": "Kamiti"
+  },
+  {
+    "id": 168,
+    "code": 30406,
+    "office": "Kampi-Ya-Samaki"
+  },
+  {
+    "id": 169,
+    "code": 50216,
+    "office": "Kamukuywa"
+  },
+  {
+    "id": 170,
+    "code": 50408,
+    "office": "Kamuriai"
+  },
+  {
+    "id": 171,
+    "code": 90403,
+    "office": "Kamuwongo"
+  },
+  {
+    "id": 172,
+    "code": "01034",
+    "office": "Kandara"
+  },
+  {
+    "id": 173,
+    "code": 40304,
+    "office": "Kandiege"
+  },
+  {
+    "id": 174,
+    "code": 10218,
+    "office": "Kangari"
+  },
+  {
+    "id": 175,
+    "code": 10202,
+    "office": "Kangema"
+  },
+  {
+    "id": 176,
+    "code": "00625",
+    "office": "Kangemi"
+  },
+  {
+    "id": 177,
+    "code": 90115,
+    "office": "Kangundo"
+  },
+  {
+    "id": 178,
+    "code": 60118,
+    "office": "Kanja"
+  },
+  {
+    "id": 179,
+    "code": "01004",
+    "office": "Kanjuku"
+  },
+  {
+    "id": 180,
+    "code": 60206,
+    "office": "Kanyakine"
+  },
+  {
+    "id": 181,
+    "code": 30304,
+    "office": "Kapcheno"
+  },
+  {
+    "id": 182,
+    "code": 30204,
+    "office": "Kapcherop"
+  },
+  {
+    "id": 183,
+    "code": 30600,
+    "office": "Kapenguria"
+  },
+  {
+    "id": 184,
+    "code": 20214,
+    "office": "Kapkatet"
+  },
+  {
+    "id": 185,
+    "code": 30300,
+    "office": "Kapsabet"
+  },
+  {
+    "id": 186,
+    "code": 30208,
+    "office": "Kapsara"
+  },
+  {
+    "id": 187,
+    "code": 20211,
+    "office": "Kapsoit"
+  },
+  {
+    "id": 188,
+    "code": 50203,
+    "office": "Kapsokwony"
+  },
+  {
+    "id": 189,
+    "code": 30705,
+    "office": "Kapsowar"
+  },
+  {
+    "id": 190,
+    "code": 30114,
+    "office": "Kaptagat"
+  },
+  {
+    "id": 191,
+    "code": 30701,
+    "office": "Kaptarakwa"
+  },
+  {
+    "id": 192,
+    "code": 60105,
+    "office": "Karaba"
+  },
+  {
+    "id": 193,
+    "code": 20328,
+    "office": "Karandi"
+  },
+  {
+    "id": 194,
+    "code": 10101,
+    "office": "Karatina"
+  },
+  {
+    "id": 195,
+    "code": "00502",
+    "office": "Karen"
+  },
+  {
+    "id": 196,
+    "code": "00401",
+    "office": "Karungu"
+  },
+  {
+    "id": 197,
+    "code": "00219",
+    "office": "Karuri"
+  },
+  {
+    "id": 198,
+    "code": 60117,
+    "office": "Karurumo"
+  },
+  {
+    "id": 199,
+    "code": 90123,
+    "office": "Kasikeu"
+  },
+  {
+    "id": 200,
+    "code": 90106,
+    "office": "Katangi"
+  },
+  {
+    "id": 201,
+    "code": 90105,
+    "office": "Kathiani"
+  },
+  {
+    "id": 202,
+    "code": 90302,
+    "office": "Kathonzweni"
+  },
+  {
+    "id": 203,
+    "code": 60406,
+    "office": "Kathwana"
+  },
+  {
+    "id": 204,
+    "code": 40118,
+    "office": "Katito"
+  },
+  {
+    "id": 205,
+    "code": 90107,
+    "office": "Kaviani"
+  },
+  {
+    "id": 206,
+    "code": "00518",
+    "office": "Kayole"
+  },
+  {
+    "id": 207,
+    "code": 40506,
+    "office": "Kebirigo"
+  },
+  {
+    "id": 208,
+    "code": 20220,
+    "office": "Kedowa"
+  },
+  {
+    "id": 209,
+    "code": 20501,
+    "office": "Keekorok"
+  },
+  {
+    "id": 210,
+    "code": 40413,
+    "office": "Kehancha"
+  },
+  {
+    "id": 211,
+    "code": 40301,
+    "office": "Kendu Bay"
+  },
+  {
+    "id": 212,
+    "code": 80122,
+    "office": "Kengeleni"
+  },
+  {
+    "id": 213,
+    "code": "01020",
+    "office": "Kenol"
+  },
+  {
+    "id": 214,
+    "code": "00202",
+    "office": "Kenyatta N.Hospital"
+  },
+  {
+    "id": 215,
+    "code": "00609",
+    "office": "Kenyatta University"
+  },
+  {
+    "id": 216,
+    "code": 40211,
+    "office": "Kenyenya"
+  },
+  {
+    "id": 217,
+    "code": 20200,
+    "office": "Kericho"
+  },
+  {
+    "id": 218,
+    "code": 20131,
+    "office": "Keringet"
+  },
+  {
+    "id": 219,
+    "code": 40202,
+    "office": "Keroka"
+  },
+  {
+    "id": 220,
+    "code": 10300,
+    "office": "Kerugoya"
+  },
+  {
+    "id": 221,
+    "code": 30215,
+    "office": "Kesogon"
+  },
+  {
+    "id": 222,
+    "code": 40212,
+    "office": "Keumbu"
+  },
+  {
+    "id": 223,
+    "code": 50104,
+    "office": "Khayega"
+  },
+  {
+    "id": 224,
+    "code": 50135,
+    "office": "Khwisero"
+  },
+  {
+    "id": 225,
+    "code": 10122,
+    "office": "Kiamariga"
+  },
+  {
+    "id": 226,
+    "code": "00900",
+    "office": "Kiambu"
+  },
+  {
+    "id": 227,
+    "code": 10309,
+    "office": "Kiamutugu"
+  },
+  {
+    "id": 228,
+    "code": 60602,
+    "office": "Kianjai"
+  },
+  {
+    "id": 229,
+    "code": 60122,
+    "office": "Kianjokoma"
+  },
+  {
+    "id": 230,
+    "code": 10301,
+    "office": "Kianyaga"
+  },
+  {
+    "id": 231,
+    "code": 60201,
+    "office": "Kibirichia"
+  },
+  {
+    "id": 232,
+    "code": 90137,
+    "office": "Kibwezi"
+  },
+  {
+    "id": 233,
+    "code": 10102,
+    "office": "Kiganjo"
+  },
+  {
+    "id": 234,
+    "code": 10203,
+    "office": "Kigumo"
+  },
+  {
+    "id": 235,
+    "code": 10207,
+    "office": "Kihoya"
+  },
+  {
+    "id": 236,
+    "code": 60207,
+    "office": "Kiirua"
+  },
+  {
+    "id": 237,
+    "code": "00220",
+    "office": "Kijabe"
+  },
+  {
+    "id": 238,
+    "code": 90125,
+    "office": "Kikima"
+  },
+  {
+    "id": 239,
+    "code": 80410,
+    "office": "Kikoneni"
+  },
+  {
+    "id": 240,
+    "code": "00902",
+    "office": "Kikuyu"
+  },
+  {
+    "id": 241,
+    "code": 90305,
+    "office": "Kilala"
+  },
+  {
+    "id": 242,
+    "code": 40700,
+    "office": "Kilgoris"
+  },
+  {
+    "id": 243,
+    "code": 80108,
+    "office": "Kilifi"
+  },
+  {
+    "id": 244,
+    "code": 80107,
+    "office": "Kilindini"
+  },
+  {
+    "id": 245,
+    "code": 50315,
+    "office": "Kilingili"
+  },
+  {
+    "id": 246,
+    "code": 10140,
+    "office": "Kimathi Way"
+  },
+  {
+    "id": 247,
+    "code": 10310,
+    "office": "Kimbimbi"
+  },
+  {
+    "id": 248,
+    "code": 50204,
+    "office": "Kimilili"
+  },
+  {
+    "id": 249,
+    "code": 30209,
+    "office": "Kiminini"
+  },
+  {
+    "id": 250,
+    "code": 20225,
+    "office": "Kimulot"
+  },
+  {
+    "id": 251,
+    "code": 30128,
+    "office": "Kimwarer"
+  },
+  {
+    "id": 252,
+    "code": 20320,
+    "office": "Kinamba"
+  },
+  {
+    "id": 253,
+    "code": 80405,
+    "office": "Kinango"
+  },
+  {
+    "id": 254,
+    "code": "00227",
+    "office": "Kinari"
+  },
+  {
+    "id": 255,
+    "code": "01031",
+    "office": "Kindaruma"
+  },
+  {
+    "id": 256,
+    "code": 60216,
+    "office": "Kinoru"
+  },
+  {
+    "id": 257,
+    "code": 60211,
+    "office": "Kionyo"
+  },
+  {
+    "id": 258,
+    "code": 30103,
+    "office": "Kipkabus"
+  },
+  {
+    "id": 259,
+    "code": 50241,
+    "office": "Kipkarren River"
+  },
+  {
+    "id": 260,
+    "code": 20202,
+    "office": "Kipkelion"
+  },
+  {
+    "id": 261,
+    "code": 20133,
+    "office": "Kiptangwanyi"
+  },
+  {
+    "id": 262,
+    "code": 20213,
+    "office": "Kiptere"
+  },
+  {
+    "id": 263,
+    "code": 20208,
+    "office": "Kiptugumo"
+  },
+  {
+    "id": 264,
+    "code": 10204,
+    "office": "Kiriaini"
+  },
+  {
+    "id": 265,
+    "code": 60113,
+    "office": "Kiritiri"
+  },
+  {
+    "id": 266,
+    "code": 50313,
+    "office": "Kiritu"
+  },
+  {
+    "id": 267,
+    "code": "01018",
+    "office": "Kirwara"
+  },
+  {
+    "id": 268,
+    "code": 90204,
+    "office": "Kisasi"
+  },
+  {
+    "id": 269,
+    "code": "00206",
+    "office": "Kiserian"
+  },
+  {
+    "id": 270,
+    "code": 40200,
+    "office": "Kisii"
+  },
+  {
+    "id": 271,
+    "code": 40100,
+    "office": "Kisumu"
+  },
+  {
+    "id": 272,
+    "code": 30200,
+    "office": "Kitale"
+  },
+  {
+    "id": 273,
+    "code": "00241",
+    "office": "Kitengela"
+  },
+  {
+    "id": 274,
+    "code": 90124,
+    "office": "Kithimani"
+  },
+  {
+    "id": 275,
+    "code": 60114,
+    "office": "Kithimu"
+  },
+  {
+    "id": 276,
+    "code": 90144,
+    "office": "Kithyoko"
+  },
+  {
+    "id": 277,
+    "code": 90303,
+    "office": "Kitise"
+  },
+  {
+    "id": 278,
+    "code": 90200,
+    "office": "Kitui"
+  },
+  {
+    "id": 279,
+    "code": 90111,
+    "office": "Kivunga"
+  },
+  {
+    "id": 280,
+    "code": 30305,
+    "office": "Kobujoi"
+  },
+  {
+    "id": 281,
+    "code": 90108,
+    "office": "Kola"
+  },
+  {
+    "id": 282,
+    "code": 40102,
+    "office": "Kombewa"
+  },
+  {
+    "id": 283,
+    "code": 40103,
+    "office": "Kondele"
+  },
+  {
+    "id": 284,
+    "code": 10234,
+    "office": "Kora"
+  },
+  {
+    "id": 285,
+    "code": 40104,
+    "office": "Koru"
+  },
+  {
+    "id": 286,
+    "code": "04332",
+    "office": "Kosele"
+  },
+  {
+    "id": 287,
+    "code": 50117,
+    "office": "Koyonzo"
+  },
+  {
+    "id": 288,
+    "code": 60125,
+    "office": "Kubu Kubu"
+  },
+  {
+    "id": 289,
+    "code": 10304,
+    "office": "Kutus"
+  },
+  {
+    "id": 290,
+    "code": 80403,
+    "office": "Kwale"
+  },
+  {
+    "id": 291,
+    "code": 90220,
+    "office": "Kyatune"
+  },
+  {
+    "id": 292,
+    "code": 90209,
+    "office": "Kyeni"
+  },
+  {
+    "id": 293,
+    "code": 90401,
+    "office": "Kyuso"
+  },
+  {
+    "id": 294,
+    "code": 60601,
+    "office": "Laare"
+  },
+  {
+    "id": 295,
+    "code": 20330,
+    "office": "Laikipia Campus"
+  },
+  {
+    "id": 296,
+    "code": 60502,
+    "office": "Laisamis"
+  },
+  {
+    "id": 297,
+    "code": 80500,
+    "office": "Lamu"
+  },
+  {
+    "id": 298,
+    "code": 20112,
+    "office": "Lanet"
+  },
+  {
+    "id": 299,
+    "code": 30112,
+    "office": "Langas"
+  },
+  {
+    "id": 300,
+    "code": "00509",
+    "office": "Langata"
+  },
+  {
+    "id": 301,
+    "code": "00603",
+    "office": "Lavington"
+  },
+  {
+    "id": 302,
+    "code": 30302,
+    "office": "Lessos"
+  },
+  {
+    "id": 303,
+    "code": 80110,
+    "office": "Likoni"
+  },
+  {
+    "id": 304,
+    "code": "00217",
+    "office": "Limuru"
+  },
+  {
+    "id": 305,
+    "code": 20210,
+    "office": "Litein"
+  },
+  {
+    "id": 306,
+    "code": 30500,
+    "office": "Lodwar"
+  },
+  {
+    "id": 307,
+    "code": "00209",
+    "office": "Loitokitok"
+  },
+  {
+    "id": 308,
+    "code": 60501,
+    "office": "Loiyangalani"
+  },
+  {
+    "id": 309,
+    "code": 30503,
+    "office": "Lokichoggio"
+  },
+  {
+    "id": 310,
+    "code": 30504,
+    "office": "Lokitaung"
+  },
+  {
+    "id": 311,
+    "code": 40701,
+    "office": "Lolgorian"
+  },
+  {
+    "id": 312,
+    "code": 20203,
+    "office": "Londiani"
+  },
+  {
+    "id": 313,
+    "code": 20402,
+    "office": "Longisa"
+  },
+  {
+    "id": 314,
+    "code": "00604",
+    "office": "Lower Kabete"
+  },
+  {
+    "id": 315,
+    "code": 50307,
+    "office": "Luanda"
+  },
+  {
+    "id": 316,
+    "code": 50240,
+    "office": "Luandeti"
+  },
+  {
+    "id": 317,
+    "code": 50118,
+    "office": "Lubao"
+  },
+  {
+    "id": 318,
+    "code": 50108,
+    "office": "Lugari"
+  },
+  {
+    "id": 319,
+    "code": 50218,
+    "office": "Lugulu"
+  },
+  {
+    "id": 320,
+    "code": 40623,
+    "office": "Luhano"
+  },
+  {
+    "id": 321,
+    "code": 50230,
+    "office": "Lukusi"
+  },
+  {
+    "id": 322,
+    "code": 50242,
+    "office": "Lumakanda"
+  },
+  {
+    "id": 323,
+    "code": 80402,
+    "office": "Lunga Lunga"
+  },
+  {
+    "id": 324,
+    "code": 50119,
+    "office": "Lunza"
+  },
+  {
+    "id": 325,
+    "code": 50220,
+    "office": "Lwakhakha"
+  },
+  {
+    "id": 326,
+    "code": 20147,
+    "office": "Maai Mahiu"
+  },
+  {
+    "id": 327,
+    "code": 50235,
+    "office": "Mabusi"
+  },
+  {
+    "id": 328,
+    "code": 90100,
+    "office": "Machakos"
+  },
+  {
+    "id": 329,
+    "code": "01002",
+    "office": "Madaraka"
+  },
+  {
+    "id": 330,
+    "code": 40613,
+    "office": "Madiany"
+  },
+  {
+    "id": 331,
+    "code": 80207,
+    "office": "Madina"
+  },
+  {
+    "id": 332,
+    "code": "00205",
+    "office": "Magadi"
+  },
+  {
+    "id": 333,
+    "code": 40516,
+    "office": "Magena"
+  },
+  {
+    "id": 334,
+    "code": 50325,
+    "office": "Mago"
+  },
+  {
+    "id": 335,
+    "code": 40507,
+    "office": "Magombo"
+  },
+  {
+    "id": 336,
+    "code": 60403,
+    "office": "Magumoni"
+  },
+  {
+    "id": 337,
+    "code": 40307,
+    "office": "Magunga"
+  },
+  {
+    "id": 338,
+    "code": 60407,
+    "office": "Magutuni"
+  },
+  {
+    "id": 339,
+    "code": 40508,
+    "office": "Magwagwa"
+  },
+  {
+    "id": 340,
+    "code": 90138,
+    "office": "Makindu"
+  },
+  {
+    "id": 341,
+    "code": "00510",
+    "office": "Makongeni"
+  },
+  {
+    "id": 342,
+    "code": 90300,
+    "office": "Makueni"
+  },
+  {
+    "id": 343,
+    "code": 80112,
+    "office": "Makupa"
+  },
+  {
+    "id": 344,
+    "code": 50209,
+    "office": "Malakisi"
+  },
+  {
+    "id": 345,
+    "code": 50103,
+    "office": "Malava"
+  },
+  {
+    "id": 346,
+    "code": 80200,
+    "office": "Malindi"
+  },
+  {
+    "id": 347,
+    "code": 70300,
+    "office": "Mandera"
+  },
+  {
+    "id": 348,
+    "code": 60101,
+    "office": "Manyatta"
+  },
+  {
+    "id": 349,
+    "code": 50300,
+    "office": "Maragoli"
+  },
+  {
+    "id": 350,
+    "code": 10205,
+    "office": "Maragua"
+  },
+  {
+    "id": 351,
+    "code": 20600,
+    "office": "Maralal"
+  },
+  {
+    "id": 352,
+    "code": 80113,
+    "office": "Mariakani"
+  },
+  {
+    "id": 353,
+    "code": 30403,
+    "office": "Marigat"
+  },
+  {
+    "id": 354,
+    "code": 60408,
+    "office": "Marima"
+  },
+  {
+    "id": 355,
+    "code": 60215,
+    "office": "Marimanti"
+  },
+  {
+    "id": 356,
+    "code": 20322,
+    "office": "Marmanet"
+  },
+  {
+    "id": 357,
+    "code": 60500,
+    "office": "Marsabit"
+  },
+  {
+    "id": 358,
+    "code": 70105,
+    "office": "Masalani"
+  },
+  {
+    "id": 359,
+    "code": 40105,
+    "office": "Maseno"
+  },
+  {
+    "id": 360,
+    "code": "01103",
+    "office": "Mashuru"
+  },
+  {
+    "id": 361,
+    "code": 90101,
+    "office": "Masii"
+  },
+  {
+    "id": 362,
+    "code": 90141,
+    "office": "Masinga"
+  },
+  {
+    "id": 363,
+    "code": "00221",
+    "office": "Matathia"
+  },
+  {
+    "id": 364,
+    "code": "00611",
+    "office": "Mathare Valley"
+  },
+  {
+    "id": 365,
+    "code": 90140,
+    "office": "Matiliku"
+  },
+  {
+    "id": 366,
+    "code": 80406,
+    "office": "Matuga"
+  },
+  {
+    "id": 367,
+    "code": 30205,
+    "office": "Matunda"
+  },
+  {
+    "id": 368,
+    "code": 90119,
+    "office": "Matuu"
+  },
+  {
+    "id": 369,
+    "code": 60600,
+    "office": "Maua"
+  },
+  {
+    "id": 370,
+    "code": 80317,
+    "office": "Maungu"
+  },
+  {
+    "id": 371,
+    "code": 90304,
+    "office": "Mavindini"
+  },
+  {
+    "id": 372,
+    "code": 40310,
+    "office": "Mawego"
+  },
+  {
+    "id": 373,
+    "code": 80114,
+    "office": "Mazeras"
+  },
+  {
+    "id": 374,
+    "code": "00503",
+    "office": "Mbagathi"
+  },
+  {
+    "id": 375,
+    "code": 10233,
+    "office": "Mbiri"
+  },
+  {
+    "id": 376,
+    "code": 40305,
+    "office": "Mbita"
+  },
+  {
+    "id": 377,
+    "code": 90214,
+    "office": "Mbitini"
+  },
+  {
+    "id": 378,
+    "code": 90110,
+    "office": "Mbiuni"
+  },
+  {
+    "id": 379,
+    "code": 90127,
+    "office": "Mbumbuni"
+  },
+  {
+    "id": 380,
+    "code": "00504",
+    "office": "Mchumbi Rd"
+  },
+  {
+    "id": 381,
+    "code": 40123,
+    "office": "Mega City"
+  },
+  {
+    "id": 382,
+    "code": 20104,
+    "office": "Menengai"
+  },
+  {
+    "id": 383,
+    "code": 60303,
+    "office": "Merti"
+  },
+  {
+    "id": 384,
+    "code": 60200,
+    "office": "Meru"
+  },
+  {
+    "id": 385,
+    "code": 40319,
+    "office": "Mfangano"
+  },
+  {
+    "id": 386,
+    "code": 80313,
+    "office": "Mgambonyi"
+  },
+  {
+    "id": 387,
+    "code": 80306,
+    "office": "Mgange"
+  },
+  {
+    "id": 388,
+    "code": 60604,
+    "office": "Miathene"
+  },
+  {
+    "id": 389,
+    "code": 90402,
+    "office": "Migwani"
+  },
+  {
+    "id": 390,
+    "code": 20301,
+    "office": "Miharati"
+  },
+  {
+    "id": 391,
+    "code": 60607,
+    "office": "Mikinduri"
+  },
+  {
+    "id": 392,
+    "code": 50138,
+    "office": "Milimani"
+  },
+  {
+    "id": 393,
+    "code": 20123,
+    "office": "Milton Siding"
+  },
+  {
+    "id": 394,
+    "code": 20124,
+    "office": "Mirangine"
+  },
+  {
+    "id": 395,
+    "code": 40320,
+    "office": "Mirogi"
+  },
+  {
+    "id": 396,
+    "code": 50207,
+    "office": "Misikhu"
+  },
+  {
+    "id": 397,
+    "code": 90104,
+    "office": "Mitaboni"
+  },
+  {
+    "id": 398,
+    "code": 60204,
+    "office": "Mitunguu"
+  },
+  {
+    "id": 399,
+    "code": 90112,
+    "office": "Miu"
+  },
+  {
+    "id": 400,
+    "code": 80106,
+    "office": "Mkomani"
+  },
+  {
+    "id": 401,
+    "code": "00519",
+    "office": "Mlolongo"
+  },
+  {
+    "id": 402,
+    "code": "00620",
+    "office": "Mobil Plaza"
+  },
+  {
+    "id": 403,
+    "code": 70102,
+    "office": "Modo Gashe"
+  },
+  {
+    "id": 404,
+    "code": 20403,
+    "office": "Mogogosiek"
+  },
+  {
+    "id": 405,
+    "code": 20105,
+    "office": "Mogotio"
+  },
+  {
+    "id": 406,
+    "code": 80115,
+    "office": "Moi Airport"
+  },
+  {
+    "id": 407,
+    "code": 30107,
+    "office": "Moi University"
+  },
+  {
+    "id": 408,
+    "code": 30202,
+    "office": "Mois Bridge"
+  },
+  {
+    "id": 409,
+    "code": 30104,
+    "office": "Moiben"
+  },
+  {
+    "id": 410,
+    "code": 40510,
+    "office": "Mokomoni"
+  },
+  {
+    "id": 411,
+    "code": 80502,
+    "office": "Mokowe"
+  },
+  {
+    "id": 412,
+    "code": 20106,
+    "office": "Molo"
+  },
+  {
+    "id": 413,
+    "code": 80100,
+    "office": "Mombasa G.P.O"
+  },
+  {
+    "id": 414,
+    "code": 30307,
+    "office": "Mosoriot"
+  },
+  {
+    "id": 415,
+    "code": 60700,
+    "office": "Moyale"
+  },
+  {
+    "id": 416,
+    "code": 80503,
+    "office": "Mpeketoni"
+  },
+  {
+    "id": 417,
+    "code": 80404,
+    "office": "Msambweni"
+  },
+  {
+    "id": 418,
+    "code": 90128,
+    "office": "Mtitu Andei"
+  },
+  {
+    "id": 419,
+    "code": 80111,
+    "office": "Mtongwe"
+  },
+  {
+    "id": 420,
+    "code": 80117,
+    "office": "Mtopanga"
+  },
+  {
+    "id": 421,
+    "code": 80109,
+    "office": "Mtwapa"
+  },
+  {
+    "id": 422,
+    "code": 50423,
+    "office": "Mubwayo"
+  },
+  {
+    "id": 423,
+    "code": 10129,
+    "office": "Mugunda"
+  },
+  {
+    "id": 424,
+    "code": 40107,
+    "office": "Muhoroni"
+  },
+  {
+    "id": 425,
+    "code": 40409,
+    "office": "Muhuru Bay"
+  },
+  {
+    "id": 426,
+    "code": 50225,
+    "office": "Mukhe"
+  },
+  {
+    "id": 427,
+    "code": 10103,
+    "office": "Mukurweini"
+  },
+  {
+    "id": 428,
+    "code": 50102,
+    "office": "Mumias"
+  },
+  {
+    "id": 429,
+    "code": 10200,
+    "office": "Muranga"
+  },
+  {
+    "id": 430,
+    "code": 50125,
+    "office": "Musanda"
+  },
+  {
+    "id": 431,
+    "code": 90211,
+    "office": "Mutha"
+  },
+  {
+    "id": 432,
+    "code": "00619",
+    "office": "Muthaiga"
+  },
+  {
+    "id": 433,
+    "code": 60605,
+    "office": "Muthara"
+  },
+  {
+    "id": 434,
+    "code": 90113,
+    "office": "Muthetheni"
+  },
+  {
+    "id": 435,
+    "code": 90117,
+    "office": "Mutituni"
+  },
+  {
+    "id": 436,
+    "code": 90201,
+    "office": "Mutomo"
+  },
+  {
+    "id": 437,
+    "code": 40628,
+    "office": "Mutumbu"
+  },
+  {
+    "id": 438,
+    "code": 90102,
+    "office": "Mwala"
+  },
+  {
+    "id": 439,
+    "code": 80305,
+    "office": "Mwatate"
+  },
+  {
+    "id": 440,
+    "code": 10104,
+    "office": "Mweiga"
+  },
+  {
+    "id": 441,
+    "code": 90400,
+    "office": "Mwingi"
+  },
+  {
+    "id": 442,
+    "code": 50226,
+    "office": "Myanga"
+  },
+  {
+    "id": 443,
+    "code": 20504,
+    "office": "Nairage Enkare"
+  },
+  {
+    "id": 444,
+    "code": 20142,
+    "office": "Naishi"
+  },
+  {
+    "id": 445,
+    "code": 50211,
+    "office": "Naitiri"
+  },
+  {
+    "id": 446,
+    "code": 20117,
+    "office": "Naivasha"
+  },
+  {
+    "id": 447,
+    "code": 20100,
+    "office": "Nakuru"
+  },
+  {
+    "id": 448,
+    "code": "00207",
+    "office": "Namanga"
+  },
+  {
+    "id": 449,
+    "code": 50127,
+    "office": "Nambacha"
+  },
+  {
+    "id": 450,
+    "code": 50409,
+    "office": "Nambale"
+  },
+  {
+    "id": 451,
+    "code": 30301,
+    "office": "Nandi Hills"
+  },
+  {
+    "id": 452,
+    "code": 40615,
+    "office": "Nango"
+  },
+  {
+    "id": 453,
+    "code": 10400,
+    "office": "Nanyuki"
+  },
+  {
+    "id": 454,
+    "code": 10105,
+    "office": "Naro Moru"
+  },
+  {
+    "id": 455,
+    "code": 20500,
+    "office": "Narok"
+  },
+  {
+    "id": 456,
+    "code": 90118,
+    "office": "Ndalani"
+  },
+  {
+    "id": 457,
+    "code": 50212,
+    "office": "Ndalu"
+  },
+  {
+    "id": 458,
+    "code": 20404,
+    "office": "Ndanai"
+  },
+  {
+    "id": 459,
+    "code": 20306,
+    "office": "Ndaragwa"
+  },
+  {
+    "id": 460,
+    "code": "00229",
+    "office": "Nderu"
+  },
+  {
+    "id": 461,
+    "code": 40302,
+    "office": "Ndhiwa"
+  },
+  {
+    "id": 462,
+    "code": "01016",
+    "office": "Ndithini"
+  },
+  {
+    "id": 463,
+    "code": 90202,
+    "office": "Ndooa"
+  },
+  {
+    "id": 464,
+    "code": 40602,
+    "office": "Ndori"
+  },
+  {
+    "id": 465,
+    "code": 20317,
+    "office": "Ndunyu Njeru"
+  },
+  {
+    "id": 466,
+    "code": 80311,
+    "office": "Ngambwa"
+  },
+  {
+    "id": 467,
+    "code": 40603,
+    "office": "Ngiya"
+  },
+  {
+    "id": 468,
+    "code": "00600",
+    "office": "Ngara Road"
+  },
+  {
+    "id": 469,
+    "code": "00218",
+    "office": "Ngecha"
+  },
+  {
+    "id": 470,
+    "code": "00901",
+    "office": "Ngewa"
+  },
+  {
+    "id": 471,
+    "code": 30404,
+    "office": "Nginyang"
+  },
+  {
+    "id": 472,
+    "code": "00208",
+    "office": "Ngong Hills"
+  },
+  {
+    "id": 473,
+    "code": "00505",
+    "office": "Ngong Road"
+  },
+  {
+    "id": 474,
+    "code": 90407,
+    "office": "Nguni"
+  },
+  {
+    "id": 475,
+    "code": 90129,
+    "office": "Ngwata"
+  },
+  {
+    "id": 476,
+    "code": 20107,
+    "office": "Njoro"
+  },
+  {
+    "id": 477,
+    "code": 60214,
+    "office": "Nkondi"
+  },
+  {
+    "id": 478,
+    "code": 60202,
+    "office": "Nkubu"
+  },
+  {
+    "id": 479,
+    "code": 20318,
+    "office": "North-Kinangop"
+  },
+  {
+    "id": 480,
+    "code": 90130,
+    "office": "Nunguni"
+  },
+  {
+    "id": 481,
+    "code": 40124,
+    "office": "Nyabondo"
+  },
+  {
+    "id": 482,
+    "code": 20300,
+    "office": "Nyahururu"
+  },
+  {
+    "id": 483,
+    "code": 80118,
+    "office": "Nyali."
+  },
+  {
+    "id": 484,
+    "code": 40203,
+    "office": "Nyamache"
+  },
+  {
+    "id": 485,
+    "code": 40206,
+    "office": "Nyamarambe"
+  },
+  {
+    "id": 486,
+    "code": 40205,
+    "office": "Nyambunwa"
+  },
+  {
+    "id": 487,
+    "code": 40500,
+    "office": "Nyamira"
+  },
+  {
+    "id": 488,
+    "code": 40632,
+    "office": "Nyamonye"
+  },
+  {
+    "id": 489,
+    "code": 40333,
+    "office": "Nyandhiwa"
+  },
+  {
+    "id": 490,
+    "code": 40126,
+    "office": "Nyangande"
+  },
+  {
+    "id": 491,
+    "code": 40127,
+    "office": "Nyangori"
+  },
+  {
+    "id": 492,
+    "code": 40218,
+    "office": "Nyangusu"
+  },
+  {
+    "id": 493,
+    "code": 40311,
+    "office": "Nyangweso"
+  },
+  {
+    "id": 494,
+    "code": 40502,
+    "office": "Nyansiongo"
+  },
+  {
+    "id": 495,
+    "code": 40514,
+    "office": "Nyaramba"
+  },
+  {
+    "id": 496,
+    "code": 40402,
+    "office": "Nyatike"
+  },
+  {
+    "id": 497,
+    "code": "00506",
+    "office": "Nyayo Stadium"
+  },
+  {
+    "id": 498,
+    "code": 10100,
+    "office": "Nyeri"
+  },
+  {
+    "id": 499,
+    "code": 40611,
+    "office": "Nyilima"
+  },
+  {
+    "id": 500,
+    "code": 90136,
+    "office": "Nzeeka"
+  },
+  {
+    "id": 501,
+    "code": 90143,
+    "office": "Nziu"
+  },
+  {
+    "id": 502,
+    "code": 40204,
+    "office": "Ogembo"
+  },
+  {
+    "id": 503,
+    "code": 40323,
+    "office": "Ogongo"
+  },
+  {
+    "id": 504,
+    "code": 90301,
+    "office": "Okia"
+  },
+  {
+    "id": 505,
+    "code": 20303,
+    "office": "Ol-Kalou"
+  },
+  {
+    "id": 506,
+    "code": 20302,
+    "office": "Oljoro-Orok"
+  },
+  {
+    "id": 507,
+    "code": 20503,
+    "office": "Ololulunga"
+  },
+  {
+    "id": 508,
+    "code": 20152,
+    "office": "Olenguruone"
+  },
+  {
+    "id": 509,
+    "code": 40221,
+    "office": "Omogonchoro"
+  },
+  {
+    "id": 510,
+    "code": "00511",
+    "office": "Ongata Rongai"
+  },
+  {
+    "id": 511,
+    "code": 30602,
+    "office": "Ortum"
+  },
+  {
+    "id": 512,
+    "code": 10106,
+    "office": "Othaya"
+  },
+  {
+    "id": 513,
+    "code": 40222,
+    "office": "Oyugis"
+  },
+  {
+    "id": 514,
+    "code": 40111,
+    "office": "Pap-Onditi"
+  },
+  {
+    "id": 515,
+    "code": "00623",
+    "office": "Parklands"
+  },
+  {
+    "id": 516,
+    "code": 40131,
+    "office": "Paw Akuche"
+  },
+  {
+    "id": 517,
+    "code": 50410,
+    "office": "Port Victoria"
+  },
+  {
+    "id": 518,
+    "code": 40132,
+    "office": "Rabuor"
+  },
+  {
+    "id": 519,
+    "code": 40604,
+    "office": "Ragengni"
+  },
+  {
+    "id": 520,
+    "code": 40412,
+    "office": "Ranen"
+  },
+  {
+    "id": 521,
+    "code": 40303,
+    "office": "Rangwe"
+  },
+  {
+    "id": 522,
+    "code": 40403,
+    "office": "Rapogi"
+  },
+  {
+    "id": 523,
+    "code": 40137,
+    "office": "Ratta"
+  },
+  {
+    "id": 524,
+    "code": 40133,
+    "office": "Reru"
+  },
+  {
+    "id": 525,
+    "code": 70302,
+    "office": "Rhamu"
+  },
+  {
+    "id": 526,
+    "code": 40511,
+    "office": "Rigoma"
+  },
+  {
+    "id": 527,
+    "code": 40512,
+    "office": "Riochanda"
+  },
+  {
+    "id": 528,
+    "code": 40220,
+    "office": "Riosiri"
+  },
+  {
+    "id": 529,
+    "code": 40326,
+    "office": "Rodi Kopany"
+  },
+  {
+    "id": 530,
+    "code": "00300",
+    "office": "Ronald Ngala St"
+  },
+  {
+    "id": 531,
+    "code": 20108,
+    "office": "Rongai"
+  },
+  {
+    "id": 532,
+    "code": 40404,
+    "office": "Rongo"
+  },
+  {
+    "id": 533,
+    "code": 20204,
+    "office": "Roret"
+  },
+  {
+    "id": 534,
+    "code": "00520",
+    "office": "Ruai"
+  },
+  {
+    "id": 535,
+    "code": "00618",
+    "office": "Ruaraka"
+  },
+  {
+    "id": 536,
+    "code": "00232",
+    "office": "Ruiru"
+  },
+  {
+    "id": 537,
+    "code": 20321,
+    "office": "Rumuruti"
+  },
+  {
+    "id": 538,
+    "code": 60103,
+    "office": "Runyenjes"
+  },
+  {
+    "id": 539,
+    "code": 20313,
+    "office": "Rurii"
+  },
+  {
+    "id": 540,
+    "code": 10133,
+    "office": "Ruringu"
+  },
+  {
+    "id": 541,
+    "code": 10208,
+    "office": "Saba-Saba"
+  },
+  {
+    "id": 542,
+    "code": 80308,
+    "office": "Sagalla"
+  },
+  {
+    "id": 543,
+    "code": 10230,
+    "office": "Sagana"
+  },
+  {
+    "id": 544,
+    "code": 80120,
+    "office": "Samburu"
+  },
+  {
+    "id": 545,
+    "code": 40405,
+    "office": "Sare"
+  },
+  {
+    "id": 546,
+    "code": "00606",
+    "office": "Sarit Centre"
+  },
+  {
+    "id": 547,
+    "code": 40612,
+    "office": "Sawagongo"
+  },
+  {
+    "id": 548,
+    "code": 40614,
+    "office": "Sega"
+  },
+  {
+    "id": 549,
+    "code": 50308,
+    "office": "Serem"
+  },
+  {
+    "id": 550,
+    "code": 30407,
+    "office": "Seretunin"
+  },
+  {
+    "id": 551,
+    "code": 50106,
+    "office": "Shianda"
+  },
+  {
+    "id": 552,
+    "code": 80407,
+    "office": "Shimba Hills"
+  },
+  {
+    "id": 553,
+    "code": 80409,
+    "office": "Shimoni"
+  },
+  {
+    "id": 554,
+    "code": 50107,
+    "office": "Shinyalu"
+  },
+  {
+    "id": 555,
+    "code": 60104,
+    "office": "Siakago"
+  },
+  {
+    "id": 556,
+    "code": 40600,
+    "office": "Siaya"
+  },
+  {
+    "id": 557,
+    "code": 40605,
+    "office": "Sidindi"
+  },
+  {
+    "id": 558,
+    "code": 40635,
+    "office": "Sigomre"
+  },
+  {
+    "id": 559,
+    "code": 20405,
+    "office": "Sigor"
+  },
+  {
+    "id": 560,
+    "code": 20422,
+    "office": "Silibwet"
+  },
+  {
+    "id": 561,
+    "code": 40308,
+    "office": "Sindo"
+  },
+  {
+    "id": 562,
+    "code": 20423,
+    "office": "Siongiroi"
+  },
+  {
+    "id": 563,
+    "code": 50208,
+    "office": "Sirisia"
+  },
+  {
+    "id": 564,
+    "code": 20128,
+    "office": "Solai"
+  },
+  {
+    "id": 565,
+    "code": 40109,
+    "office": "Sondu"
+  },
+  {
+    "id": 566,
+    "code": 40110,
+    "office": "Songhor"
+  },
+  {
+    "id": 567,
+    "code": 20205,
+    "office": "Sosiot"
+  },
+  {
+    "id": 568,
+    "code": 20406,
+    "office": "Sotik"
+  },
+  {
+    "id": 569,
+    "code": 20319,
+    "office": "South-Kinangop"
+  },
+  {
+    "id": 570,
+    "code": 30105,
+    "office": "Soy"
+  },
+  {
+    "id": 571,
+    "code": 40418,
+    "office": "Suba-Kuria"
+  },
+  {
+    "id": 572,
+    "code": 20109,
+    "office": "Subukia"
+  },
+  {
+    "id": 573,
+    "code": 20602,
+    "office": "Suguta Mar Mar"
+  },
+  {
+    "id": 574,
+    "code": 20151,
+    "office": "Sulmac"
+  },
+  {
+    "id": 575,
+    "code": 90132,
+    "office": "Sultan Hamud"
+  },
+  {
+    "id": 576,
+    "code": 40400,
+    "office": "Suna"
+  },
+  {
+    "id": 577,
+    "code": 40229,
+    "office": "Tabaka"
+  },
+  {
+    "id": 578,
+    "code": 70303,
+    "office": "Takaba"
+  },
+  {
+    "id": 579,
+    "code": "09013",
+    "office": "Tala"
+  },
+  {
+    "id": 580,
+    "code": 30704,
+    "office": "Tambach"
+  },
+  {
+    "id": 581,
+    "code": 80309,
+    "office": "Tausa"
+  },
+  {
+    "id": 582,
+    "code": 80302,
+    "office": "Taveta"
+  },
+  {
+    "id": 583,
+    "code": 90133,
+    "office": "Tawa"
+  },
+  {
+    "id": 584,
+    "code": 30405,
+    "office": "Tenges"
+  },
+  {
+    "id": 585,
+    "code": "01000",
+    "office": "Thika"
+  },
+  {
+    "id": 586,
+    "code": 10406,
+    "office": "Timau"
+  },
+  {
+    "id": 587,
+    "code": 20110,
+    "office": "Timber Mills"
+  },
+  {
+    "id": 588,
+    "code": 30108,
+    "office": "Timboroa"
+  },
+  {
+    "id": 589,
+    "code": 50309,
+    "office": "Tiriki"
+  },
+  {
+    "id": 590,
+    "code": "00400",
+    "office": "Tom Mboya St"
+  },
+  {
+    "id": 591,
+    "code": 30707,
+    "office": "Tot"
+  },
+  {
+    "id": 592,
+    "code": 90203,
+    "office": "Tulia"
+  },
+  {
+    "id": 593,
+    "code": 60213,
+    "office": "Tunyai"
+  },
+  {
+    "id": 594,
+    "code": 30106,
+    "office": "Turbo"
+  },
+  {
+    "id": 595,
+    "code": 40606,
+    "office": "Ugunja"
+  },
+  {
+    "id": 596,
+    "code": "00517",
+    "office": "Uhuru Gardens"
+  },
+  {
+    "id": 597,
+    "code": 80400,
+    "office": "Ukunda"
+  },
+  {
+    "id": 598,
+    "code": 40607,
+    "office": "Ukwala"
+  },
+  {
+    "id": 599,
+    "code": "00222",
+    "office": "Uplands"
+  },
+  {
+    "id": 600,
+    "code": 40608,
+    "office": "Uranga"
+  },
+  {
+    "id": 601,
+    "code": 40228,
+    "office": "Uriri"
+  },
+  {
+    "id": 602,
+    "code": 40609,
+    "office": "Usenge"
+  },
+  {
+    "id": 603,
+    "code": "00605",
+    "office": "Uthiru"
+  },
+  {
+    "id": 604,
+    "code": 50310,
+    "office": "Vihiga"
+  },
+  {
+    "id": 605,
+    "code": "00621",
+    "office": "Village Market"
+  },
+  {
+    "id": 606,
+    "code": 80119,
+    "office": "Vipingo"
+  },
+  {
+    "id": 607,
+    "code": 80211,
+    "office": "Vitengeni"
+  },
+  {
+    "id": 608,
+    "code": "00507",
+    "office": "Viwandani"
+  },
+  {
+    "id": 609,
+    "code": 80300,
+    "office": "Voi"
+  },
+  {
+    "id": 610,
+    "code": 60121,
+    "office": "Wachoro"
+  },
+  {
+    "id": 611,
+    "code": 70200,
+    "office": "Wajir"
+  },
+  {
+    "id": 612,
+    "code": 20603,
+    "office": "Wamba"
+  },
+  {
+    "id": 613,
+    "code": 90103,
+    "office": "Wamunyu"
+  },
+  {
+    "id": 614,
+    "code": "00614",
+    "office": "Wangige"
+  },
+  {
+    "id": 615,
+    "code": 10303,
+    "office": "Wanguru"
+  },
+  {
+    "id": 616,
+    "code": 20305,
+    "office": "Wanjohi"
+  },
+  {
+    "id": 617,
+    "code": 80202,
+    "office": "Watamu"
+  },
+  {
+    "id": 618,
+    "code": 50205,
+    "office": "Webuye"
+  },
+  {
+    "id": 619,
+    "code": 30603,
+    "office": "Wei-Wei"
+  },
+  {
+    "id": 620,
+    "code": 80303,
+    "office": "Werugha"
+  },
+  {
+    "id": 621,
+    "code": "00800",
+    "office": "Westlands"
+  },
+  {
+    "id": 622,
+    "code": 40141,
+    "office": "Winam (Kisumu Gpo Extn.)"
+  },
+  {
+    "id": 623,
+    "code": 80504,
+    "office": "Witu"
+  },
+  {
+    "id": 624,
+    "code": 50311,
+    "office": "Wodanga"
+  },
+  {
+    "id": 625,
+    "code": 80304,
+    "office": "Wundanyi"
+  },
+  {
+    "id": 626,
+    "code": 40610,
+    "office": "Yala"
+  },
+  {
+    "id": 627,
+    "code": "00508",
+    "office": "Yaya Towers"
+  },
+  {
+    "id": 628,
+    "code": 90134,
+    "office": "Yoani"
+  },
+  {
+    "id": 629,
+    "code": 30214,
+    "office": "Ziwa"
+  },
+  {
+    "id": 630,
+    "code": 90213,
+    "office": "Zombe"
+  }
+]
